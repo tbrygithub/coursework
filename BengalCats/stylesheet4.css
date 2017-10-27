@@ -1,0 +1,23 @@
+nav {  
+     font-family: 'Permanent Marker', regular;
+ }
+
+p {
+    font-family: 'Yantramanav', sans-serif;
+}
+
+#p1 {font-size: 14pt;
+    font-style: italic;
+}
+.brand-logo {
+margin-left:  20px;
+}
+
+#logophoto{
+    width:100%
+}
+
+
+#info{
+    width:100%;
+}
